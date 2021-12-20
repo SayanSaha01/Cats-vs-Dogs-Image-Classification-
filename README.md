@@ -1,5 +1,4 @@
-# Cats-vs-Dogs-Image-Classification-
-Image Classification of Cats vs Dogs using CNN
+# Cats-vs-Dogs-Image-Classification
 
 
 
